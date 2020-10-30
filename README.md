@@ -1,2 +1,2 @@
-# MarkdownProject
-this is about using markdown syntax
+# This is Heading1
+## This is Heading1
